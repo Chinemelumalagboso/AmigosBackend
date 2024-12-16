@@ -159,3 +159,4 @@ C:\Users\alagb\Downloads\AmigosBackend\ProductApi\obj\Debug\net8.0\refint\Produc
 C:\Users\alagb\Downloads\AmigosBackend\ProductApi\obj\Debug\net8.0\ProductApi.pdb
 C:\Users\alagb\Downloads\AmigosBackend\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
 C:\Users\alagb\Downloads\AmigosBackend\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+C:\Users\alagb\Downloads\AmigosBackend\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
